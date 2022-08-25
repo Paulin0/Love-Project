@@ -1,0 +1,69 @@
+*{
+    padding:0;
+    margin:0;
+}
+.container{
+    background-image: linear-gradient(#F9D0CF, #FFFDFD);
+    height: 100%;
+    width: 100%;
+    position:absolute;
+    
+
+
+}
+
+.container2 {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 55%;
+}
+
+h1{
+    font-size: 45px;
+    color: #5D4443;
+    font-family: 'Aboreto', cursive;
+    font-family: 'Noto Serif HK', serif;
+
+
+}
+
+.love{
+    font-style: italic;
+    transition: all 0.6s;
+    
+}
+
+.love:hover{
+    color: #B63835;
+    font-size: 48px;
+}
+
+.animate__animated, .animate__bounce{
+    --animate-duration: 1.25s;}
+
+.container3 {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    
+}
+
+a {
+    decoration: none;
+}
+
+.love-button{
+    background-color: transparent;
+    color:#5D4443;
+    border-color: #5D4443;
+    border-width: 2.7px;
+    border-radius: 100px;
+    margin-top: 200px;
+    font-size: 20px;
+    padding: 10px;
+    border-style: solid;
+    font-family: 'Aboreto', cursive;
+    font-family: 'Noto Serif HK', serif;
+    opacity: 0.13;
+}
