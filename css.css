@@ -67,3 +67,7 @@ a {
     font-family: 'Noto Serif HK', serif;
     opacity: 0.13;
 }
+
+.love-button:hover {
+    opacity: 0.5;
+}
